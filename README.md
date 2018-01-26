@@ -1,4 +1,5 @@
 # Comment bien organiser son projet Angular
+[source détaillée](http://blog.soat.fr/2016/05/comment-bien-organiser-son-projet-angular-structure/)
 
 ## Les outils
 
